@@ -8,9 +8,6 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
-&nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/FitzgeraldNoon#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/FitzgeraldNoon#gh-dark-mode-only)
 &nbsp;&nbsp;
@@ -19,14 +16,15 @@
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/zvnnoony#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/zvnnoony#gh-dark-mode-only)
+&nbsp;&nbsp;
 
 ### Languages and Tools:
 
-[
+
 
 ---
 
-[website]: https://codeSTACKr.com
+
 [twitter]: https://twitter.com/FitzgeraldNoon
 [instagram]: https://instagram.com/zvnnoony
 [linkedin]: www.linkedin.com/in/noonfitzgerald
