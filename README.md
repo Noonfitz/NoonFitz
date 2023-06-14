@@ -14,18 +14,15 @@
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/noonfitzgerald#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/cnoonfitzgerald#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/zvnnoony#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/zvnnoony#gh-dark-mode-only)
-&nbsp;&nbsp;
+
 
 ### Languages and Tools:
 
-
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,jquery,nodejs,express,mongodb,atom,vscode,git,github,figma,java)](https://skillicons.dev)
 
 ---
 
 
 [twitter]: https://twitter.com/FitzgeraldNoon
-[instagram]: https://instagram.com/zvnnoony
 [linkedin]: www.linkedin.com/in/noonfitzgerald
 
